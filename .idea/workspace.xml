@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23680afb-4e0a-48bb-b676-3006dc457104" name="Default Changelist" comment="" />
+    <list default="true" id="23680afb-4e0a-48bb-b676-3006dc457104" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +48,7 @@
   <component name="ProjectId" id="1c2H1gRBkKZSlslIN7ATdrrQAus" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -163,7 +166,8 @@
       <workItem from="1590437538071" duration="1883000" />
       <workItem from="1590963365249" duration="4795000" />
       <workItem from="1591015307933" duration="438000" />
-      <workItem from="1605706005366" duration="2280000" />
+      <workItem from="1605706005366" duration="2684000" />
+      <workItem from="1605709631539" duration="361000" />
     </task>
     <servers />
   </component>
